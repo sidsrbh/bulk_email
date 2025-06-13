@@ -1,0 +1,3 @@
+([('bulkemail',
+   '/Users/sidsrbh/Documents/Development/Bulk Email/dist/bulkemail',
+   'EXECUTABLE')],)
